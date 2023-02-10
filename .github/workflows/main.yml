@@ -3,7 +3,7 @@ name: --awesome-gamer # 修改你的名称
 on:
   workflow_dispatch:
   schedule:
-    - cron: "10 23 * * 7,8" # 修改你的定时配置
+    - cron: "42 5 * * 2,4" # 修改你的定时配置
 
 jobs:
   setup:
