@@ -1,3 +1,3 @@
-2023/04/27-13:51:28.891 a79 Reusing MANIFEST /home/runner/work/--awesome-gamer/--awesome-gamer/epic/src/database/users/50e9e073fdfe19303e36ff6da4e4c4e5f2c302f5e3542dac4e530174f7062dac/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/27-13:51:28.891 a79 Recovering log #3
-2023/04/27-13:51:28.891 a79 Reusing old log /home/runner/work/--awesome-gamer/--awesome-gamer/epic/src/database/users/50e9e073fdfe19303e36ff6da4e4c4e5f2c302f5e3542dac4e530174f7062dac/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 
+2023/05/02-13:51:28.956 7d9 Reusing MANIFEST /home/runner/work/--awesome-gamer/--awesome-gamer/epic/src/database/users/50e9e073fdfe19303e36ff6da4e4c4e5f2c302f5e3542dac4e530174f7062dac/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/02-13:51:28.957 7d9 Recovering log #3
+2023/05/02-13:51:28.958 7d9 Reusing old log /home/runner/work/--awesome-gamer/--awesome-gamer/epic/src/database/users/50e9e073fdfe19303e36ff6da4e4c4e5f2c302f5e3542dac4e530174f7062dac/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 
