@@ -1,7 +1,22 @@
-2023/07/20-13:47:46.077 7ec Reusing MANIFEST /home/runner/work/--awesome-gamer/--awesome-gamer/epic/src/database/users/50e9e073fdfe19303e36ff6da4e4c4e5f2c302f5e3542dac4e530174f7062dac/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/20-13:47:46.079 7ec Delete type=2 #9
-2023/07/20-13:47:46.079 7ec Delete type=2 #17
-2023/07/20-13:47:46.079 7ec Delete type=2 #13
-2023/07/20-13:52:47.898 7ee Level-0 table #28: started
-2023/07/20-13:52:47.900 7ee Level-0 table #28: 7013 bytes OK
-2023/07/20-13:52:47.902 7ee Delete type=0 #26
+2023/07/25-13:47:32.233 839 Reusing MANIFEST /home/runner/work/--awesome-gamer/--awesome-gamer/epic/src/database/users/50e9e073fdfe19303e36ff6da4e4c4e5f2c302f5e3542dac4e530174f7062dac/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/25-13:47:32.247 839 Delete type=2 #9
+2023/07/25-13:47:32.247 839 Delete type=2 #17
+2023/07/25-13:47:32.247 839 Delete type=2 #13
+2023/07/25-13:51:02.383 839 Level-0 table #32: started
+2023/07/25-13:51:02.398 839 Level-0 table #32: 6983 bytes OK
+2023/07/25-13:51:02.399 839 Delete type=0 #30
+2023/07/25-14:02:22.095 83d Level-0 table #34: started
+2023/07/25-14:02:22.097 83d Level-0 table #34: 7022 bytes OK
+2023/07/25-14:02:22.099 83d Delete type=0 #31
+2023/07/25-14:09:02.439 83d Level-0 table #36: started
+2023/07/25-14:09:02.441 83d Level-0 table #36: 6980 bytes OK
+2023/07/25-14:09:02.443 83d Delete type=0 #33
+2023/07/25-14:09:02.443 83d Compacting 4@0 + 1@1 files
+2023/07/25-14:09:02.445 83d Generated table #37@0: 525 keys, 4069 bytes
+2023/07/25-14:09:02.446 83d Compacted 4@0 + 1@1 files => 4069 bytes
+2023/07/25-14:09:02.446 83d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/25-14:09:02.447 83d Delete type=2 #32
+2023/07/25-14:09:02.447 83d Delete type=2 #24
+2023/07/25-14:09:02.447 83d Delete type=2 #34
+2023/07/25-14:09:02.447 83d Delete type=2 #36
+2023/07/25-14:09:02.447 83d Delete type=2 #28
