@@ -1,14 +1,9 @@
-2023/07/27-13:47:55.413 84b Reusing MANIFEST /home/runner/work/--awesome-gamer/--awesome-gamer/epic/src/database/users/50e9e073fdfe19303e36ff6da4e4c4e5f2c302f5e3542dac4e530174f7062dac/Default/Session Storage/MANIFEST-000001
-2023/07/27-13:47:55.415 84b Delete type=2 #15
-2023/07/27-14:12:05.750 84d Level-0 table #23: started
-2023/07/27-14:12:05.753 84d Level-0 table #23: 7199 bytes OK
-2023/07/27-14:12:05.757 84d Delete type=0 #21
-2023/07/27-14:12:05.757 84d Compacting 4@0 + 1@1 files
-2023/07/27-14:12:05.761 84d Generated table #24@0: 554 keys, 4708 bytes
-2023/07/27-14:12:05.761 84d Compacted 4@0 + 1@1 files => 4708 bytes
-2023/07/27-14:12:05.762 84d compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/27-14:12:05.763 84d Delete type=2 #9
-2023/07/27-14:12:05.763 84d Delete type=2 #23
-2023/07/27-14:12:05.763 84d Delete type=2 #17
-2023/07/27-14:12:05.763 84d Delete type=2 #19
-2023/07/27-14:12:05.763 84d Delete type=2 #13
+2023/08/01-13:47:41.557 828 Reusing MANIFEST /home/runner/work/--awesome-gamer/--awesome-gamer/epic/src/database/users/50e9e073fdfe19303e36ff6da4e4c4e5f2c302f5e3542dac4e530174f7062dac/Default/Session Storage/MANIFEST-000001
+2023/08/01-13:47:41.558 828 Delete type=2 #9
+2023/08/01-13:47:41.558 828 Delete type=2 #17
+2023/08/01-13:47:41.558 828 Delete type=2 #15
+2023/08/01-13:47:41.558 828 Delete type=2 #19
+2023/08/01-13:47:41.558 828 Delete type=2 #13
+2023/08/01-14:08:02.314 828 Level-0 table #28: started
+2023/08/01-14:08:02.316 828 Level-0 table #28: 9986 bytes OK
+2023/08/01-14:08:02.318 828 Delete type=0 #26
