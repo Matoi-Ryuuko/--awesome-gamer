@@ -1,10 +1,13 @@
-2023/08/08-13:47:51.366 813 Reusing MANIFEST /home/runner/work/--awesome-gamer/--awesome-gamer/epic/src/database/users/50e9e073fdfe19303e36ff6da4e4c4e5f2c302f5e3542dac4e530174f7062dac/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/08-13:47:51.379 813 Delete type=2 #47
-2023/08/08-13:47:51.379 813 Delete type=2 #17
-2023/08/08-13:47:51.379 813 Delete type=2 #9
-2023/08/08-13:47:51.379 813 Delete type=2 #41
-2023/08/08-13:47:51.379 813 Delete type=2 #13
-2023/08/08-13:47:51.379 813 Delete type=2 #24
-2023/08/08-13:47:51.379 813 Delete type=2 #28
-2023/08/08-13:47:51.379 813 Delete type=2 #37
-2023/08/08-13:47:51.379 813 Delete type=2 #45
+2023/08/10-13:47:42.979 833 Reusing MANIFEST /home/runner/work/--awesome-gamer/--awesome-gamer/epic/src/database/users/50e9e073fdfe19303e36ff6da4e4c4e5f2c302f5e3542dac4e530174f7062dac/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/10-13:47:42.980 833 Delete type=2 #47
+2023/08/10-13:47:42.980 833 Delete type=2 #17
+2023/08/10-13:47:42.980 833 Delete type=2 #9
+2023/08/10-13:47:42.980 833 Delete type=2 #41
+2023/08/10-13:47:42.980 833 Delete type=2 #13
+2023/08/10-13:47:42.980 833 Delete type=2 #24
+2023/08/10-13:47:42.981 833 Delete type=2 #28
+2023/08/10-13:47:42.981 833 Delete type=2 #37
+2023/08/10-13:47:42.981 833 Delete type=2 #45
+2023/08/10-14:12:02.240 831 Level-0 table #58: started
+2023/08/10-14:12:02.243 831 Level-0 table #58: 7152 bytes OK
+2023/08/10-14:12:02.244 831 Delete type=0 #56
